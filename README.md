@@ -15,11 +15,10 @@
 <code><img height="32" src="C.png" alt="c"/></code>
 <code><img height="32" src="C++.png" alt="c"/></code>
 ## Platforms and Embedded Systems
-<code><img height="32" src="arduino.png" alt="c"/></code>
+<code><img height="32" src="arduino.svg" alt="c"/></code>
 <code><img height="32" src="platformio.png" alt="c"/></code>
-<code><img height="32" src="esp32.png" alt="c"/></code>
+<code><img height="32" src="esp32.jpg" alt="c"/></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHC-CodeSmith&layout=compact&theme=algolia&count_private=true)](https://github.com/MHC-CodeSmith)
 
 
 
