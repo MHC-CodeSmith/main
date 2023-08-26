@@ -7,7 +7,7 @@
 ## Frontend 
 <code><img height="32" src="flutter.png" alt="c"/></code>
 <code><img height="32" src="latex.jpg" alt="c"/></code>
-<code><img height="32" src="pandas.jpg" alt="c"/></code>
+<code><img height="32" src="pandas.png" alt="c"/></code>
 <code><img height="32" src="matplotlib.png" alt="c"/></code>
 ## Backend
 <code><img height="32" src="python.png" alt="c"/></code>
